@@ -1,16 +1,19 @@
-# sneaker
+Sneaker_app UI
+A mobile app UI for selling sneakers was created using Flutter and is called Sneaker App.
 
-A new Flutter project.
+Features
+View available shoes for sale
+Look for particular shoes
+listing of shoes for sale
+Getting Going
+To begin using Sneaker_app UI, do the following:
 
-## Getting Started
+Repository clone
+Install the dependencies and Flutter
+Connect your smartphone or launch an emulator.
+Run flutter run to start the application.
+Dependencies
+These dependencies are necessary for Sneaker_app UI to function:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contact
+Please get in touch henrymaliseli027@gmail.com if you have any inquiries or comments regarding the Sneaker_app.
